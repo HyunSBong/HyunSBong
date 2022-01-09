@@ -24,7 +24,6 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 </p>
 
 
