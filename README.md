@@ -22,9 +22,9 @@
 #### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 
@@ -34,7 +34,9 @@
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Hadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=white"/>
 </p>
