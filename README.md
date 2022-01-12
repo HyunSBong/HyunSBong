@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Hadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=black"/>
 </p>
