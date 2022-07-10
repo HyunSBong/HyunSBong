@@ -1,6 +1,6 @@
 <p>
-  👋&nbsp; Hi there! I'm <b>back-end developer</b> using Spring, nodejs. <br/>
-  Sometimes I deal with Swift, Data Analysis. There are many things I want to do. 🤔 <br/><br/>
+  👋&nbsp; Hi there! I'm <b>back-end developer & Machine Learning Engineer</b> using Spring, nodejs. <br/>
+  Sometimes I deal with Data Analysis. There are many things I want to do. 🤔 <br/><br/>
 </p>
 
 
