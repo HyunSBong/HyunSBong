@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Veu.js&logoColor=white"/>
 </p>
 
-#### BigData
+#### Data Science
 <p>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
