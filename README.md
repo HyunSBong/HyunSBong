@@ -20,18 +20,18 @@
 #### Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 </p>
 
 #### BigData
 
 <p>
-  <img src="https://img.shields.io/badge/Apache Kubernates-326CE5?style=flat-square&logo=Kubernates&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kubernates-326CE5?style=flat-square&logo=Kubernates&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
 </p>
 
@@ -52,5 +52,5 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  Wandb
+  <img src="https://img.shields.io/badge/Wandb-F05032?style=flat-square&logo=Wandb&logoColor=white"/>
 </p>
