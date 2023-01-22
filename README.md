@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
 </p>
 
 #### Machine Learning
@@ -28,11 +29,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/Kubernates-326CE5?style=flat-square&logo=Kubernates&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VLDB-363636?style=flat-square&logo=VLDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
 </p>
 
 #### Web
