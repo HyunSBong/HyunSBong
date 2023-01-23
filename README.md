@@ -55,3 +55,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wandb-F05032?style=flat-square&logo=Wandb&logoColor=white"/>
 </p>
+
+
+### CV
+https://nickel-animantarx-893.notion.site/Curriculum-Vitae-8791b38653d9447c89792ef96c7b8ee5
