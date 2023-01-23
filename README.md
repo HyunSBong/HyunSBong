@@ -57,7 +57,7 @@
 </p>
 
 
-### Contact
+### 📨 Contact
 <a href="https://nickel-animantarx-893.notion.site/Curriculum-Vitae-8791b38653d9447c89792ef96c7b8ee5" target="_blank">
   <img src="https://img.shields.io/badge/CV-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
 <br>
