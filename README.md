@@ -1,8 +1,8 @@
 <p>
-  👋&nbsp; Hi there! My research interests are in generative model and machine learning. Currently, I'm focusing on adversarial or variational generation of gene expression data and synthesis gene data. There are many things I want to do. 🤔 <br/><br/>
+  👋&nbsp; Hi there! My research interests are in generative model and bioinfomatics, genomics. Currently, I'm studying gene data augmentation and drug response prediction in multi-omics based on domain knowledge of bioinformatics and genomics, focusing on precision medicine to accurately identify patients' genomes. There are many things I want to do. 🤔 <br/><br/>
 </p>
 
-
+<!-- 
 ### 💪 Skills
 
 #### Languages
@@ -54,11 +54,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wandb-F05032?style=flat-square&logo=Wandb&logoColor=white"/>
 </p>
-
+ -->
 
 ### 📨 Contact
-<a href="https://nickel-animantarx-893.notion.site/Curriculum-Vitae-8791b38653d9447c89792ef96c7b8ee5" target="_blank">
-  <img src="https://img.shields.io/badge/CV-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
+<a href="https://hyunsbong.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/CV-000000?style=flat-square&logo=githubpages&logoColor=#ffffff"/></a>
 <br>
+<!-- <a href="https://nickel-animantarx-893.notion.site/Curriculum-Vitae-8791b38653d9447c89792ef96c7b8ee5" target="_blank">
+  <img src="https://img.shields.io/badge/CV-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
+<br> -->
 <a href="mailto:hsb041406@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/hsb041406@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
