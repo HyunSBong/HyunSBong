@@ -58,7 +58,7 @@
 
 ### 📨 Contact
 <a href="https://hyunsbong.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/CV-000000?style=flat-square&logo=githubpages&logoColor=#ffffff"/></a>
+  <img src="https://img.shields.io/badge/CV-000000?style=flat-square&logo=githubpages&logoColor=##00B1EA"/></a>
 <br>
 <!-- <a href="https://nickel-animantarx-893.notion.site/Curriculum-Vitae-8791b38653d9447c89792ef96c7b8ee5" target="_blank">
   <img src="https://img.shields.io/badge/CV-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
