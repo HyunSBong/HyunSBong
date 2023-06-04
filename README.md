@@ -57,11 +57,11 @@
  -->
 
 ### 📨 Contact
-<a href="https://hyunsbong.github.io/" target="_blank">
+<a href="https://nickel-animantarx-893.notion.site/Curriculum-Vitae-a28104e702644d0c882e783402b2bd0e?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/CV-00B1EA?style=flat-square&logo=githubpages&logoColor=white"/></a>
 <br>
 <!-- <a href="https://nickel-animantarx-893.notion.site/Curriculum-Vitae-8791b38653d9447c89792ef96c7b8ee5" target="_blank">
   <img src="https://img.shields.io/badge/CV-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
 <br> -->
-<a href="mailto:hsb041406@gmail.com" target="_blank">
+<a href="mailto:sanseng@mju.ac.kr" target="_blank">
   <img src="https://img.shields.io/badge/hsb041406@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
