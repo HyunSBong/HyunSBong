@@ -1,5 +1,5 @@
 <p>
-  👋&nbsp; Hi there! My research interests are in generative model and bioinformatics, genomics. <br/><br/>Currently, I'm studying gene data augmentation and drug response prediction in multi-omics based on domain knowledge of bioinformatics and genomics, focusing on precision medicine to accurately identify patients' genomes. <br/><br/>There are many things I want to do. 🤔 <br/><br/>
+  👋&nbsp; Hi there! My research interests are transcriptional generation models and multi-omix integrated analysis to analyze the conditions of several cells that cause cancer in terms of gene expression. I have focused on graph-based machine learning, contrastive learning, and causal inference  accurately analyze omics data. <br/><br/>There are many things I want to do. 🤔 <br/><br/>
 </p>
 
 <!-- 
