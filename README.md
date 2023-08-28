@@ -1,8 +1,11 @@
 <p>
-  👋&nbsp; Hi there! My research interests are transcriptional generation models and multi-omix integrated analysis to analyze the conditions of several cells that cause cancer in terms of gene expression. I have focused on graph-based machine learning, contrastive learning, and causal inference  accurately analyze omics data. <br/><br/>There are many things I want to do. 🤔 <br/><br/>
+  👋&nbsp; Hi there! My research interests are transcriptional generation models and multi-omics integrated analysis to analyze the conditions of several cells that cause cancer in terms of gene expression. I have focused on graph-based machine learning, contrastive learning, and causal inference  accurately analyze omics data. <br/><br/>There are many things I want to do. 🤔 <br/><br/>
 </p>
 
-<!-- 
+### 🧐 Interests
+Deep Learning, Bioinformatics, Graph Learning, Pathway Learning, Generative Model
+
+<!--
 ### 💪 Skills
 
 #### Languages
