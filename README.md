@@ -1,5 +1,14 @@
 <p>
-  👋&nbsp; Hi there! My research interests are transcriptional generation models and multi-omics integrated analysis to analyze the conditions of several cells that cause cancer in terms of gene expression. I have focused on graph-based machine learning, contrastive learning, and causal inference  accurately analyze omics data. <br/><br/>There are many things I want to do. 🤔 <br/><br/>
+  👋&nbsp; Hi there! my name is Hyunsu Bong, and I am a MS and Ph.D. student in medical science at Korea University.
+  I received my Bachelor’s degree in Software Convergence from Myongji University.
+  Currently, I am working on a master's and doctoral integration course in medical science.
+</p>
+
+<p>
+  My research interest is to use genomics or transcriptomics data to develop computational methods that can contribute 
+  to the development of personalized treatments for each patient, on the premise of a better understanding of the disease.
+  In particular, I analyze the state of several cancer-causing cells in terms of gene expression and focus on transcriptome, 
+  molecular generation models, and multi-omics integrated analysis for drug development.
 </p>
 
 ### 🧐 Interests
