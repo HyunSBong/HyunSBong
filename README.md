@@ -1,7 +1,5 @@
 <p>
-  👋&nbsp; Hi there! my name is Hyunsu Bong, and I am a MS and Ph.D. student in medical science at Korea University.
-  I received my Bachelor’s degree in Software Convergence from Myongji University.
-  Currently, I am working on a master's and doctoral integration course in medical science.
+  👋&nbsp; Hi there!
 </p>
 
 <p>
