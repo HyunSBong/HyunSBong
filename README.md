@@ -68,4 +68,4 @@ Deep Learning, Bioinformatics, Graph Learning, Pathway Learning, Generative Mode
 
 ### 📨 Contact
 <a href="mailto:sanseng@mju.ac.kr" target="_blank">
-  <img src="https://img.shields.io/badge/sanseng@mju.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/sanseng@korea.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
