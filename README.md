@@ -7,7 +7,7 @@
 </p>
 
 ### 🧐 Interests
-Deep Learning, Bioinformatics, Graph Learning, Pathway Learning, Generative Model
+Deep Learning, Bioinformatics, Graph Learning, Generative Model
 
 <!--
 ### 💪 Skills
