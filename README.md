@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  My research interest is to develop drug candidates into computational methods by utilizing various biodomain data such as genomes, proteomes, and 3D protein-ligand structure information. Specifically, protein-ligand binding prediction using three-dimensional structural information, three-dimensional molecular that can be drug candidates, and gene and microbe prediction that can cause specific diseases.
+  My research interest is to develop drug candidates into computational methods by utilizing various biodomain data such as genomes, proteomes, and 3D protein-ligand structure information. Specifically, protein-ligand binding prediction using three-dimensional structural information, three-dimensional molecule that can be drug candidates, and gene and microbe prediction that can cause specific diseases.
 </p>
 
 ### 🧐 Interests
