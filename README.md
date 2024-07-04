@@ -3,10 +3,7 @@
 </p>
 
 <p>
-  My research interest is to use genomics or transcriptomics data to develop computational methods that can contribute 
-  to the development of personalized treatments for each patient, on the premise of a better understanding of the disease.
-  In particular, I analyze the state of several cancer-causing cells in terms of gene expression and focus on transcriptome, 
-  molecular generation models, and multi-omics integrated analysis for drug development.
+  My research interest is to develop drug candidates into computational methods by utilizing various biodomain data such as genomes, proteomes, and 3D protein-ligand structure information. Specifically, protein-ligand binding prediction using three-dimensional structural information, three-dimensional molecular that can be drug candidates, and gene and microbe prediction that can cause specific diseases.
 </p>
 
 ### 🧐 Interests
